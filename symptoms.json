@@ -1,0 +1,84 @@
+{
+  "diseases_with_symptoms": [
+    {
+      "name": "Hypertension",
+      "symptoms": ["Headaches", "Shortness of breath", "Nosebleeds"]
+    },
+    {
+      "name": "Diabetes",
+      "symptoms": ["Frequent urination", "Increased thirst", "Unexplained weight loss", "Fatigue", "Blurred vision"]
+    },
+    {
+      "name": "Common Cold",
+      "symptoms": ["Runny nose", "Sore throat", "Sneezing", "Coughing", "Mild fatigue"]
+    },
+    {
+      "name": "Asthma",
+      "symptoms": ["Wheezing", "Shortness of breath", "Chest tightness", "Coughing"]
+    },
+    {
+      "name": "Arthritis",
+      "symptoms": ["Joint pain", "Stiffness", "Swelling", "Reduced range of motion"]
+    },
+    {
+      "name": "Influenza",
+      "symptoms": ["Fever", "Body aches", "Fatigue", "Cough", "Sore throat"]
+    },
+    {
+      "name": "Migraine",
+      "symptoms": ["Severe headache", "Nausea", "Sensitivity to light and sound", "Aura"]
+    },
+    {
+      "name": "Pneumonia",
+      "symptoms": ["Cough with phlegm", "Fever", "Chills", "Difficulty breathing"]
+    },
+    {
+      "name": "Measles",
+      "symptoms": ["High fever", "Cough", "Runny nose", "Red, watery eyes", "Rash"]
+    },
+    {
+      "name": "Hepatitis",
+      "symptoms": ["Jaundice", "Dark urine", "Fatigue", "Abdominal pain", "Nausea"]
+    },
+    {
+      "name": "Bronchitis",
+      "symptoms": ["Persistent cough", "Production of mucus", "Chest discomfort", "Fatigue"]
+    },
+    {
+      "name": "Anemia",
+      "symptoms": ["Fatigue", "Weakness", "Pale skin", "Shortness of breath"]
+    },
+    {
+      "name": "Dengue Fever",
+      "symptoms": ["High fever", "Severe headache", "Joint and muscle pain", "Rash", "Nausea"]
+    },
+    {
+      "name": "Typhoid Fever",
+      "symptoms": ["High fever", "Headache", "Abdominal pain", "Weakness", "Rash"]
+    },
+    {
+      "name": "Tuberculosis",
+      "symptoms": ["Chronic cough", "Weight loss", "Night sweats", "Fever"]
+    },
+    {
+      "name": "Malaria",
+      "symptoms": ["Fever", "Chills", "Headache", "Nausea", "Vomiting"]
+    },
+    {
+      "name": "Cholera",
+      "symptoms": ["Severe watery diarrhea", "Vomiting", "Dehydration"]
+    },
+    {
+      "name": "Conjunctivitis",
+      "symptoms": ["Redness or pinkness in the eye", "Itchiness", "Tearing", "Discharge"]
+    },
+    {
+      "name": "Tetanus",
+      "symptoms": ["Muscle spasms", "Stiffness in the jaw (lockjaw)", "Fever"]
+    },
+    {
+      "name": "Eczema",
+      "symptoms": ["Dry, itchy skin", "Red patches", "Inflammation", "Rashes"]
+    }
+  ]
+}
