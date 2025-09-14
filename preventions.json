@@ -1,0 +1,181 @@
+{
+  "diseases_with_prevention_measures": [
+    {
+      "name": "Hypertension",
+      "prevention_measures": [
+        "Maintain a healthy weight.",
+        "Eat a balanced diet low in sodium.",
+        "Exercise regularly.",
+        "Limit alcohol consumption.",
+        "Manage stress through meditation or yoga."
+      ]
+    },
+    {
+      "name": "Diabetes",
+      "prevention_measures": [
+        "Control your weight.",
+        "Follow a healthy diet with plenty of fiber.",
+        "Get regular physical activity.",
+        "Avoid sugary drinks and processed foods."
+      ]
+    },
+    {
+      "name": "Common Cold",
+      "prevention_measures": [
+        "Wash hands frequently with soap and water.",
+        "Avoid touching your face.",
+        "Stay away from people who are sick.",
+        "Disinfect frequently touched surfaces.",
+        "Get enough sleep."
+      ]
+    },
+    {
+      "name": "Asthma",
+      "prevention_measures": [
+        "Avoid asthma triggers like pollen, dust mites, and pet dander.",
+        "Use an air purifier.",
+        "Avoid smoking and secondhand smoke.",
+        "Get a flu shot to prevent respiratory infections."
+      ]
+    },
+    {
+      "name": "Arthritis",
+      "prevention_measures": [
+        "Maintain a healthy weight to reduce stress on joints.",
+        "Exercise regularly to strengthen muscles around joints.",
+        "Protect joints from injury.",
+        "Eat a diet rich in antioxidants."
+      ]
+    },
+    {
+      "name": "Influenza",
+      "prevention_measures": [
+        "Get an annual flu vaccine.",
+        "Wash your hands often.",
+        "Avoid touching your eyes, nose, and mouth.",
+        "Stay home when you are sick."
+      ]
+    },
+    {
+      "name": "Migraine",
+      "prevention_measures": [
+        "Identify and avoid triggers (e.g., certain foods, stress, lack of sleep).",
+        "Maintain a regular sleep schedule.",
+        "Manage stress with relaxation techniques.",
+        "Stay hydrated."
+      ]
+    },
+    {
+      "name": "Pneumonia",
+      "prevention_measures": [
+        "Get vaccinated against pneumonia and the flu.",
+        "Wash your hands frequently.",
+        "Avoid smoking.",
+        "Maintain a healthy lifestyle to boost your immune system."
+      ]
+    },
+    {
+      "name": "Measles",
+      "prevention_measures": [
+        "Get the MMR (measles, mumps, and rubella) vaccine.",
+        "Avoid contact with infected people.",
+        "Wash hands frequently."
+      ]
+    },
+    {
+      "name": "Hepatitis",
+      "prevention_measures": [
+        "Get vaccinated against Hepatitis A and B.",
+        "Practice safe sex.",
+        "Avoid sharing needles or personal items like razors."
+      ]
+    },
+    {
+      "name": "Bronchitis",
+      "prevention_measures": [
+        "Avoid smoking and exposure to secondhand smoke.",
+        "Wash your hands often.",
+        "Get a flu vaccine.",
+        "Avoid touching your face with unwashed hands."
+      ]
+    },
+    {
+      "name": "Anemia",
+      "prevention_measures": [
+        "Eat a diet rich in iron (e.g., red meat, beans, spinach).",
+        "Consume foods high in vitamin C to help with iron absorption.",
+        "Eat foods with a lot of B12 and folate."
+      ]
+    },
+    {
+      "name": "Dengue Fever",
+      "prevention_measures": [
+        "Use mosquito repellent.",
+        "Wear long sleeves and pants.",
+        "Use screens on windows and doors.",
+        "Eliminate stagnant water where mosquitoes can breed."
+      ]
+    },
+    {
+      "name": "Typhoid Fever",
+      "prevention_measures": [
+        "Get vaccinated.",
+        "Drink bottled or boiled water.",
+        "Wash hands before eating and after using the bathroom.",
+        "Avoid raw fruits and vegetables."
+      ]
+    },
+    {
+      "name": "Tuberculosis",
+      "prevention_measures": [
+        "Get the BCG vaccine in high-risk areas.",
+        "Cover your mouth and nose when you cough or sneeze.",
+        "Avoid close contact with people who have active TB."
+      ]
+    },
+    {
+      "name": "Malaria",
+      "prevention_measures": [
+        "Take antimalarial medications when traveling to high-risk areas.",
+        "Use insect repellent.",
+        "Sleep under mosquito nets treated with insecticide.",
+        "Wear long sleeves and pants."
+      ]
+    },
+    {
+      "name": "Cholera",
+      "prevention_measures": [
+        "Drink and use safe water (bottled, boiled, or chlorinated).",
+        "Wash hands frequently with soap and water.",
+        "Cook food thoroughly and eat it while hot.",
+        "Avoid raw fruits and vegetables."
+      ]
+    },
+    {
+      "name": "Conjunctivitis",
+      "prevention_measures": [
+        "Wash your hands often.",
+        "Avoid touching your eyes.",
+        "Don't share eye makeup or contact lenses.",
+        "Use clean towels and washcloths."
+      ]
+    },
+    {
+      "name": "Tetanus",
+      "prevention_measures": [
+        "Get the tetanus vaccine (Tdap or Td).",
+        "Clean all wounds and cuts thoroughly.",
+        "Avoid walking barefoot outdoors."
+      ]
+    },
+    {
+      "name": "Eczema",
+      "prevention_measures": [
+        "Moisturize your skin regularly.",
+        "Avoid triggers like harsh soaps, certain fabrics, or allergens.",
+        "Use a humidifier to keep the air from being too dry.",
+        "Take short, lukewarm showers."
+      ]
+    }
+  ]
+}
