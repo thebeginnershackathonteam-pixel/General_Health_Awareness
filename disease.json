@@ -1,0 +1,3308 @@
+[
+    {
+        "value": "malaria",
+        "synonyms": [
+            "malaria",
+            "plasmodium infection"
+        ]
+    },
+    {
+        "value": "tuberculosis",
+        "synonyms": [
+            "tuberculosis",
+            "tb",
+            "mycobacterium tuberculosis"
+        ]
+    },
+    {
+        "value": "hiv",
+        "synonyms": [
+            "hiv",
+            "human immunodeficiency virus",
+            "aids virus"
+        ]
+    },
+    {
+        "value": "aids",
+        "synonyms": [
+            "aids",
+            "acquired immunodeficiency syndrome"
+        ]
+    },
+    {
+        "value": "influenza",
+        "synonyms": [
+            "influenza",
+            "flu",
+            "seasonal flu"
+        ]
+    },
+    {
+        "value": "cholera",
+        "synonyms": [
+            "cholera",
+            "vibrio cholerae infection"
+        ]
+    },
+    {
+        "value": "ebola",
+        "synonyms": [
+            "ebola",
+            "ebola virus disease",
+            "evd"
+        ]
+    },
+    {
+        "value": "dengue",
+        "synonyms": [
+            "dengue",
+            "dengue fever",
+            "severe dengue"
+        ]
+    },
+    {
+        "value": "zika",
+        "synonyms": [
+            "zika",
+            "zika virus"
+        ]
+    },
+    {
+        "value": "covid-19",
+        "synonyms": [
+            "covid-19",
+            "coronavirus",
+            "sars-cov-2",
+            "covid"
+        ]
+    },
+    {
+        "value": "measles",
+        "synonyms": [
+            "measles",
+            "rubeola"
+        ]
+    },
+    {
+        "value": "polio",
+        "synonyms": [
+            "polio",
+            "poliomyelitis"
+        ]
+    },
+    {
+        "value": "rabies",
+        "synonyms": [
+            "rabies"
+        ]
+    },
+    {
+        "value": "yellow fever",
+        "synonyms": [
+            "yellow fever"
+        ]
+    },
+    {
+        "value": "hepatitis",
+        "synonyms": [
+            "hepatitis",
+            "liver infection"
+        ]
+    },
+    {
+        "value": "hepatitis a",
+        "synonyms": [
+            "hepatitis a",
+            "hep a"
+        ]
+    },
+    {
+        "value": "hepatitis b",
+        "synonyms": [
+            "hepatitis b",
+            "hep b"
+        ]
+    },
+    {
+        "value": "hepatitis c",
+        "synonyms": [
+            "hepatitis c",
+            "hep c"
+        ]
+    },
+    {
+        "value": "leprosy",
+        "synonyms": [
+            "leprosy",
+            "hansen's disease"
+        ]
+    },
+    {
+        "value": "typhoid",
+        "synonyms": [
+            "typhoid",
+            "enteric fever"
+        ]
+    },
+    {
+        "value": "మలేరియా",
+        "synonyms": [
+            "మలేరియా"
+        ]
+    },
+    {
+        "value": "క్షయ",
+        "synonyms": [
+            "క్షయ"
+        ]
+    },
+    {
+        "value": "హెచ్‌ఐవి",
+        "synonyms": [
+            "హెచ్‌ఐవి"
+        ]
+    },
+    {
+        "value": "ఎయిడ్స్",
+        "synonyms": [
+            "ఎయిడ్స్"
+        ]
+    },
+    {
+        "value": "ఇన్‌ఫ్లుయెంజా",
+        "synonyms": [
+            "ఇన్‌ఫ్లుయెంజా"
+        ]
+    },
+    {
+        "value": "కాలరా",
+        "synonyms": [
+            "కాలరా"
+        ]
+    },
+    {
+        "value": "ఈబోలా",
+        "synonyms": [
+            "ఈబోలా"
+        ]
+    },
+    {
+        "value": "డెంగ్యూ",
+        "synonyms": [
+            "డెంగ్యూ"
+        ]
+    },
+    {
+        "value": "జికా",
+        "synonyms": [
+            "జికా"
+        ]
+    },
+    {
+        "value": "కోవిడ్-19",
+        "synonyms": [
+            "కోవిడ్-19"
+        ]
+    },
+    {
+        "value": "మీసిల్స్",
+        "synonyms": [
+            "మీసిల్స్"
+        ]
+    },
+    {
+        "value": "పోలియో",
+        "synonyms": [
+            "పోలియో"
+        ]
+    },
+    {
+        "value": "రేబిస్",
+        "synonyms": [
+            "రేబిస్"
+        ]
+    },
+    {
+        "value": "పసుపు జ్వరం",
+        "synonyms": [
+            "పసుపు జ్వరం"
+        ]
+    },
+    {
+        "value": "హెపటైటిస్",
+        "synonyms": [
+            "హెపటైటిస్"
+        ]
+    },
+    {
+        "value": "హెపటైటిస్ ఎ",
+        "synonyms": [
+            "హెపటైటిస్ ఎ"
+        ]
+    },
+    {
+        "value": "హెపటైటిస్ బి",
+        "synonyms": [
+            "హెపటైటిస్ బి"
+        ]
+    },
+    {
+        "value": "హెపటైటిస్ సి",
+        "synonyms": [
+            "హెపటైటిస్ సి"
+        ]
+    },
+    {
+        "value": "కుష్టు",
+        "synonyms": [
+            "కుష్టు"
+        ]
+    },
+    {
+        "value": "టైఫాయిడ్",
+        "synonyms": [
+            "టైఫాయిడ్"
+        ]
+    },
+    {
+        "value": "मलेरिया",
+        "synonyms": [
+            "मलेरिया"
+        ]
+    },
+    {
+        "value": "क्षय रोग",
+        "synonyms": [
+            "क्षय रोग",
+            "टीबी",
+            "थेपेडिक"
+        ]
+    },
+    {
+        "value": "एचआईवी",
+        "synonyms": [
+            "एचआईवी"
+        ]
+    },
+    {
+        "value": "एड्स",
+        "synonyms": [
+            "एड्स"
+        ]
+    },
+    {
+        "value": "इन्फ्लुएंजा",
+        "synonyms": [
+            "इन्फ्लुएंजा",
+            "फ्लू"
+        ]
+    },
+    {
+        "value": "हैजा",
+        "synonyms": [
+            "हैजा"
+        ]
+    },
+    {
+        "value": "ईबोला",
+        "synonyms": [
+            "ईबोला"
+        ]
+    },
+    {
+        "value": "डेंगू",
+        "synonyms": [
+            "डेंगू"
+        ]
+    },
+    {
+        "value": "जिका",
+        "synonyms": [
+            "जिका"
+        ]
+    },
+    {
+        "value": "कोविड-19",
+        "synonyms": [
+            "कोविड-19",
+            "कोरोना"
+        ]
+    },
+    {
+        "value": "खसरा",
+        "synonyms": [
+            "खसरा"
+        ]
+    },
+    {
+        "value": "पोलियो",
+        "synonyms": [
+            "पोलियो"
+        ]
+    },
+    {
+        "value": "रेबीज",
+        "synonyms": [
+            "रेबीज"
+        ]
+    },
+    {
+        "value": "पीलिया बुखार",
+        "synonyms": [
+            "पीलिया बुखार"
+        ]
+    },
+    {
+        "value": "हेपेटाइटिस",
+        "synonyms": [
+            "हेपेटाइटिस"
+        ]
+    },
+    {
+        "value": "कुष्ठ रोग",
+        "synonyms": [
+            "कुष्ठ रोग"
+        ]
+    },
+    {
+        "value": "टाइफाइड",
+        "synonyms": [
+            "टाइफाइड"
+        ]
+    },
+    {
+        "value": "மலேரியா",
+        "synonyms": [
+            "மலேரியா"
+        ]
+    },
+    {
+        "value": "காசநோய்",
+        "synonyms": [
+            "காசநோய்"
+        ]
+    },
+    {
+        "value": "எச்ஐவி",
+        "synonyms": [
+            "எச்ஐவி"
+        ]
+    },
+    {
+        "value": "ஏட்ஸ்",
+        "synonyms": [
+            "ஏட்ஸ்"
+        ]
+    },
+    {
+        "value": "காய்ச்சல்",
+        "synonyms": [
+            "காய்ச்சல்"
+        ]
+    },
+    {
+        "value": "காலரா",
+        "synonyms": [
+            "காலரா"
+        ]
+    },
+    {
+        "value": "ஈபோலா",
+        "synonyms": [
+            "ஈபோலா"
+        ]
+    },
+    {
+        "value": "டெங்கு",
+        "synonyms": [
+            "டெங்கு"
+        ]
+    },
+    {
+        "value": "சிக்கா",
+        "synonyms": [
+            "சிக்கா"
+        ]
+    },
+    {
+        "value": "கோவிட்-19",
+        "synonyms": [
+            "கோவிட்-19"
+        ]
+    },
+    {
+        "value": "சின்னம்மை",
+        "synonyms": [
+            "சின்னம்மை"
+        ]
+    },
+    {
+        "value": "போலியோ",
+        "synonyms": [
+            "போலியோ"
+        ]
+    },
+    {
+        "value": "நாய்க்கடி",
+        "synonyms": [
+            "நாய்க்கடி"
+        ]
+    },
+    {
+        "value": "மஞ்சள் காய்ச்சல்",
+        "synonyms": [
+            "மஞ்சள் காய்ச்சல்"
+        ]
+    },
+    {
+        "value": "கல்லீரல் நோய்",
+        "synonyms": [
+            "கல்லீரல் நோய்"
+        ]
+    },
+    {
+        "value": "குஷ்டம்",
+        "synonyms": [
+            "குஷ்டம்"
+        ]
+    },
+    {
+        "value": "டைஃபாய்டு",
+        "synonyms": [
+            "டைஃபாய்டு"
+        ]
+    },
+    {
+        "value": "ಮಲೇರಿಯಾ",
+        "synonyms": [
+            "ಮಲೇರಿಯಾ"
+        ]
+    },
+    {
+        "value": "ಕ್ಷಯರೋಗ",
+        "synonyms": [
+            "ಕ್ಷಯರೋಗ",
+            "ಟಿಬಿ"
+        ]
+    },
+    {
+        "value": "ಎಚ್‌ಐವಿ",
+        "synonyms": [
+            "ಎಚ್‌ಐವಿ"
+        ]
+    },
+    {
+        "value": "ಏಡ್ಸ್",
+        "synonyms": [
+            "ಏಡ್ಸ್"
+        ]
+    },
+    {
+        "value": "ಜ್ವರ",
+        "synonyms": [
+            "ಜ್ವರ",
+            "ಇನ್‌ಫ್ಲುಯೆಂಜಾ"
+        ]
+    },
+    {
+        "value": "ಹಾಲೆರಾ",
+        "synonyms": [
+            "ಹಾಲೆರಾ"
+        ]
+    },
+    {
+        "value": "ಈಬೋಲಾ",
+        "synonyms": [
+            "ಈಬೋಲಾ"
+        ]
+    },
+    {
+        "value": "ಡೆಂಗ್ಯೂ",
+        "synonyms": [
+            "ಡೆಂಗ್ಯೂ"
+        ]
+    },
+    {
+        "value": "ಜಿಕಾ",
+        "synonyms": [
+            "ಜಿಕಾ"
+        ]
+    },
+    {
+        "value": "ಕೊವಿಡ್-19",
+        "synonyms": [
+            "ಕೊವಿಡ್-19",
+            "ಕೊರೋನಾ"
+        ]
+    },
+    {
+        "value": "ಮೀಸಲ್ಸ್",
+        "synonyms": [
+            "ಮೀಸಲ್ಸ್"
+        ]
+    },
+    {
+        "value": "ಪೋಲಿಯೊ",
+        "synonyms": [
+            "ಪೋಲಿಯೊ"
+        ]
+    },
+    {
+        "value": "ನಾಯಿ ಕಚ್ಚು",
+        "synonyms": [
+            "ನಾಯಿ ಕಚ್ಚು",
+            "ರೆಬೀಸ್"
+        ]
+    },
+    {
+        "value": "ಹಳದಿ ಜ್ವರ",
+        "synonyms": [
+            "ಹಳದಿ ಜ್ವರ"
+        ]
+    },
+    {
+        "value": "ಹೆಪಟೈಟಿಸ್",
+        "synonyms": [
+            "ಹೆಪಟೈಟಿಸ್"
+        ]
+    },
+    {
+        "value": "ಕುಷ್ಟರೋಗ",
+        "synonyms": [
+            "ಕುಷ್ಟರೋಗ"
+        ]
+    },
+    {
+        "value": "ಟೈಫಾಯ್ಡ್",
+        "synonyms": [
+            "ಟೈಫಾಯ್ಡ್"
+        ]
+    },
+    {
+        "value": "ম্যালেরিয়া",
+        "synonyms": [
+            "ম্যালেরিয়া"
+        ]
+    },
+    {
+        "value": "যক্ষ্মা",
+        "synonyms": [
+            "যক্ষ্মা",
+            "টিবি"
+        ]
+    },
+    {
+        "value": "এইচআইভি",
+        "synonyms": [
+            "এইচআইভি"
+        ]
+    },
+    {
+        "value": "এইডস",
+        "synonyms": [
+            "এইডস"
+        ]
+    },
+    {
+        "value": "ইনফ্লুয়েঞ্জা",
+        "synonyms": [
+            "ইনফ্লুয়েঞ্জা",
+            "ফ্লু"
+        ]
+    },
+    {
+        "value": "কলেরা",
+        "synonyms": [
+            "কলেরা"
+        ]
+    },
+    {
+        "value": "ইবোলা",
+        "synonyms": [
+            "ইবোলা"
+        ]
+    },
+    {
+        "value": "ডেঙ্গু",
+        "synonyms": [
+            "ডেঙ্গু"
+        ]
+    },
+    {
+        "value": "জিকা",
+        "synonyms": [
+            "জিকা"
+        ]
+    },
+    {
+        "value": "কোভিড-১৯",
+        "synonyms": [
+            "কোভিড-১৯",
+            "করোনা"
+        ]
+    },
+    {
+        "value": "হাম",
+        "synonyms": [
+            "হাম"
+        ]
+    },
+    {
+        "value": "পোলিও",
+        "synonyms": [
+            "পোলিও"
+        ]
+    },
+    {
+        "value": "রেবিস",
+        "synonyms": [
+            "রেবিস"
+        ]
+    },
+    {
+        "value": "হলুদ জ্বর",
+        "synonyms": [
+            "হলুদ জ্বর"
+        ]
+    },
+    {
+        "value": "হেপাটাইটিস",
+        "synonyms": [
+            "হেপাটাইটিস"
+        ]
+    },
+    {
+        "value": "কুষ্ঠ",
+        "synonyms": [
+            "কুষ্ঠ"
+        ]
+    },
+    {
+        "value": "টাইফয়েড",
+        "synonyms": [
+            "টাইফয়েড"
+        ]
+    },
+    {
+        "value": "मलेरिया",
+        "synonyms": [
+            "मलेरिया"
+        ]
+    },
+    {
+        "value": "क्षयरोग",
+        "synonyms": [
+            "क्षयरोग",
+            "टीबी"
+        ]
+    },
+    {
+        "value": "एचआयव्ही",
+        "synonyms": [
+            "एचआयव्ही"
+        ]
+    },
+    {
+        "value": "एड्स",
+        "synonyms": [
+            "एड्स"
+        ]
+    },
+    {
+        "value": "इन्फ्लूएंझा",
+        "synonyms": [
+            "इन्फ्लूएंझा",
+            "फ्लू"
+        ]
+    },
+    {
+        "value": "हैजा",
+        "synonyms": [
+            "हैजा"
+        ]
+    },
+    {
+        "value": "इबोला",
+        "synonyms": [
+            "इबोला"
+        ]
+    },
+    {
+        "value": "डेंग्यू",
+        "synonyms": [
+            "डेंग्यू"
+        ]
+    },
+    {
+        "value": "झिका",
+        "synonyms": [
+            "झिका"
+        ]
+    },
+    {
+        "value": "कोविड-१९",
+        "synonyms": [
+            "कोविड-१९",
+            "कोरोना"
+        ]
+    },
+    {
+        "value": "गोवर",
+        "synonyms": [
+            "गोवर"
+        ]
+    },
+    {
+        "value": "पोलिओ",
+        "synonyms": [
+            "पोलिओ"
+        ]
+    },
+    {
+        "value": "रेबीज",
+        "synonyms": [
+            "रेबीज"
+        ]
+    },
+    {
+        "value": "पिवळा ताप",
+        "synonyms": [
+            "पिवळा ताप"
+        ]
+    },
+    {
+        "value": "हेपाटायटिस",
+        "synonyms": [
+            "हेपाटायटिस"
+        ]
+    },
+    {
+        "value": "कुष्ठरोग",
+        "synonyms": [
+            "कुष्ठरोग"
+        ]
+    },
+    {
+        "value": "टायफॉईड",
+        "synonyms": [
+            "टायफॉईड"
+        ]
+    },
+    {
+        "value": "மலேரியா",
+        "synonyms": [
+            "மலேரியா"
+        ]
+    },
+    {
+        "value": "நுரையீரல் குழாய்க் காயம்",
+        "synonyms": [
+            "நுரையீரல் குழாய்க் காயம்",
+            "டீபி"
+        ]
+    },
+    {
+        "value": "எச்ஐவி",
+        "synonyms": [
+            "எச்ஐவி"
+        ]
+    },
+    {
+        "value": "ஏட்ஸ்",
+        "synonyms": [
+            "ஏட்ஸ்"
+        ]
+    },
+    {
+        "value": "இன்ஃப்ளூயென்சா",
+        "synonyms": [
+            "இன்ஃப்ளூயென்சா",
+            "களஞ்சியம்"
+        ]
+    },
+    {
+        "value": "கலாச்சி",
+        "synonyms": [
+            "கலாச்சி"
+        ]
+    },
+    {
+        "value": "ஈபோலா",
+        "synonyms": [
+            "ஈபோலா"
+        ]
+    },
+    {
+        "value": "டெங்கு",
+        "synonyms": [
+            "டெங்கு"
+        ]
+    },
+    {
+        "value": "ஜிகா",
+        "synonyms": [
+            "ஜிகா"
+        ]
+    },
+    {
+        "value": "கோவிட்-19",
+        "synonyms": [
+            "கோவிட்-19",
+            "கொரோனா"
+        ]
+    },
+    {
+        "value": "குறைநோய்",
+        "synonyms": [
+            "குறைநோய்"
+        ]
+    },
+    {
+        "value": "போலியோ",
+        "synonyms": [
+            "போலியோ"
+        ]
+    },
+    {
+        "value": "நாய்க்கொலி",
+        "synonyms": [
+            "நாய்க்கொலி"
+        ]
+    },
+    {
+        "value": "மஞ்சள் காயம்",
+        "synonyms": [
+            "மஞ்சள் காயம்"
+        ]
+    },
+    {
+        "value": "ஹெபட்டிடிஸ்",
+        "synonyms": [
+            "ஹெபட்டிடிஸ்"
+        ]
+    },
+    {
+        "value": "கூளைக் காயம்",
+        "synonyms": [
+            "கூளைக் காயம்"
+        ]
+    },
+    {
+        "value": "டைபாய்டு",
+        "synonyms": [
+            "டைபாய்டு"
+        ]
+    },
+    {
+        "value": "ಮಲೇರಿಯಾ",
+        "synonyms": [
+            "ಮಲೇರಿಯಾ"
+        ]
+    },
+    {
+        "value": "ಕ್ಷಯ ರೋಗ",
+        "synonyms": [
+            "ಕ್ಷಯ ರೋಗ",
+            "ಟಿಬಿ"
+        ]
+    },
+    {
+        "value": "ಹೈವ್",
+        "synonyms": [
+            "ಹೈವ್"
+        ]
+    },
+    {
+        "value": "ಏಡ್ಸ್",
+        "synonyms": [
+            "ಏಡ್ಸ್"
+        ]
+    },
+    {
+        "value": "ಇನ್ಫ್ಲುವೆಂಜಾ",
+        "synonyms": [
+            "ಇನ್ಫ್ಲುವೆಂಜಾ",
+            "ಫ್ಲೂ"
+        ]
+    },
+    {
+        "value": "ಹೆಜಾ",
+        "synonyms": [
+            "ಹೆಜಾ"
+        ]
+    },
+    {
+        "value": "ಈಬೋಲಾ",
+        "synonyms": [
+            "ಈಬೋಲಾ"
+        ]
+    },
+    {
+        "value": "ಡೆಂಗ್ಯೂ",
+        "synonyms": [
+            "ಡೆಂಗ್ಯೂ"
+        ]
+    },
+    {
+        "value": "ಜಿಕಾ",
+        "synonyms": [
+            "ಜಿಕಾ"
+        ]
+    },
+    {
+        "value": "ಕೋವಿಡ್-19",
+        "synonyms": [
+            "ಕೋವಿಡ್-19",
+            "ಕೊರೋನಾ"
+        ]
+    },
+    {
+        "value": "ಖಸರಾ",
+        "synonyms": [
+            "ಖಸರಾ"
+        ]
+    },
+    {
+        "value": "ಪೋಲಿಯೋ",
+        "synonyms": [
+            "ಪೋಲಿಯೋ"
+        ]
+    },
+    {
+        "value": "ರೇಬಿಸ್",
+        "synonyms": [
+            "ರೇಬಿಸ್"
+        ]
+    },
+    {
+        "value": "ಹಳದಿ ಜ್ವರ",
+        "synonyms": [
+            "ಹಳದಿ ಜ್ವರ"
+        ]
+    },
+    {
+        "value": "ಹೆಪಟೈಟಿಸ್",
+        "synonyms": [
+            "ಹೆಪಟೈಟಿಸ್"
+        ]
+    },
+    {
+        "value": " ಕುಷ್ಠ ರೋಗ",
+        "synonyms": [
+            " ಕುಷ್ಠ ರೋಗ"
+        ]
+    },
+    {
+        "value": "ಟೈಫಾಯ್ಡ್",
+        "synonyms": [
+            "ಟೈಫಾಯ್ಡ್"
+        ]
+    },
+    {
+        "value": "ম্যালেরিয়া",
+        "synonyms": [
+            "ম্যালেরিয়া"
+        ]
+    },
+    {
+        "value": "ক্ষয়রোগ",
+        "synonyms": [
+            "ক্ষয়রোগ",
+            "টিবি"
+        ]
+    },
+    {
+        "value": "এইচআইভি",
+        "synonyms": [
+            "এইচআইভি"
+        ]
+    },
+    {
+        "value": "এইডস",
+        "synonyms": [
+            "এইডস"
+        ]
+    },
+    {
+        "value": "ইনফ্লুয়েঞ্জা",
+        "synonyms": [
+            "ইনফ্লুয়েঞ্জা",
+            "ফ্লু"
+        ]
+    },
+    {
+        "value": "কলেরা",
+        "synonyms": [
+            "কলেরা"
+        ]
+    },
+    {
+        "value": "ইবোলা",
+        "synonyms": [
+            "ইবোলা"
+        ]
+    },
+    {
+        "value": "ডেঙ্গু",
+        "synonyms": [
+            "ডেঙ্গু"
+        ]
+    },
+    {
+        "value": "জিকা",
+        "synonyms": [
+            "জিকা"
+        ]
+    },
+    {
+        "value": "কোভিড-১৯",
+        "synonyms": [
+            "কোভিড-১৯",
+            "করোনা"
+        ]
+    },
+    {
+        "value": "খসরা",
+        "synonyms": [
+            "খসরা"
+        ]
+    },
+    {
+        "value": "পোলিও",
+        "synonyms": [
+            "পোলিও"
+        ]
+    },
+    {
+        "value": "রেবিজ",
+        "synonyms": [
+            "রেবিজ"
+        ]
+    },
+    {
+        "value": "পীত জ্বর",
+        "synonyms": [
+            "পীত জ্বর"
+        ]
+    },
+    {
+        "value": "হেপাটাইটিস",
+        "synonyms": [
+            "হেপাটাইটিস"
+        ]
+    },
+    {
+        "value": "কুষ্ঠরোগ",
+        "synonyms": [
+            "কুষ্ঠরোগ"
+        ]
+    },
+    {
+        "value": "টাইফয়েড",
+        "synonyms": [
+            "টাইফয়েড"
+        ]
+    },
+    {
+        "value": "मलेरिया",
+        "synonyms": [
+            "मलेरिया"
+        ]
+    },
+    {
+        "value": "क्षयरोग",
+        "synonyms": [
+            "क्षयरोग",
+            "टीबी"
+        ]
+    },
+    {
+        "value": "एचआयव्ही",
+        "synonyms": [
+            "एचआयव्ही"
+        ]
+    },
+    {
+        "value": "एड्स",
+        "synonyms": [
+            "एड्स"
+        ]
+    },
+    {
+        "value": "इन्फ्लूएंझा",
+        "synonyms": [
+            "इन्फ्लूएंझा",
+            "फ्लू"
+        ]
+    },
+    {
+        "value": "हायजा",
+        "synonyms": [
+            "हायजा"
+        ]
+    },
+    {
+        "value": "एबोला",
+        "synonyms": [
+            "एबोला"
+        ]
+    },
+    {
+        "value": "डेन्ग्यू",
+        "synonyms": [
+            "डेन्ग्यू"
+        ]
+    },
+    {
+        "value": "झिका",
+        "synonyms": [
+            "झिका"
+        ]
+    },
+    {
+        "value": "कोविड-१९",
+        "synonyms": [
+            "कोविड-१९",
+            "कोरोना"
+        ]
+    },
+    {
+        "value": "खसरा",
+        "synonyms": [
+            "खसरा"
+        ]
+    },
+    {
+        "value": "पोलियो",
+        "synonyms": [
+            "पोलियो"
+        ]
+    },
+    {
+        "value": "रेबीज",
+        "synonyms": [
+            "रेबीज"
+        ]
+    },
+    {
+        "value": "पिवळा ताप",
+        "synonyms": [
+            "पिवळा ताप"
+        ]
+    },
+    {
+        "value": "हेपॅटायटिस",
+        "synonyms": [
+            "हेपॅटायटिस"
+        ]
+    },
+    {
+        "value": "कुष्ठरोग",
+        "synonyms": [
+            "कुष्ठरोग"
+        ]
+    },
+    {
+        "value": "टायफॉइड",
+        "synonyms": [
+            "टायफॉइड"
+        ]
+    },
+    {
+        "value": "મેલેરિયા",
+        "synonyms": [
+            "મેલેરિયા"
+        ]
+    },
+    {
+        "value": "ક્ષય",
+        "synonyms": [
+            "ક્ષય",
+            "ટીબી"
+        ]
+    },
+    {
+        "value": "એચઆઈવી",
+        "synonyms": [
+            "એચઆઈવી"
+        ]
+    },
+    {
+        "value": "એડ્સ",
+        "synonyms": [
+            "એડ્સ"
+        ]
+    },
+    {
+        "value": "ઇન્ફ્લૂએન્ઝા",
+        "synonyms": [
+            "ઇન્ફ્લૂએન્ઝા",
+            "ફ્લૂ"
+        ]
+    },
+    {
+        "value": "હેજા",
+        "synonyms": [
+            "હેજા"
+        ]
+    },
+    {
+        "value": "ઇબોલા",
+        "synonyms": [
+            "ઇબોલા"
+        ]
+    },
+    {
+        "value": "ડેંગ્યુ",
+        "synonyms": [
+            "ડેંગ્યુ"
+        ]
+    },
+    {
+        "value": "ઝિકા",
+        "synonyms": [
+            "ઝિકા"
+        ]
+    },
+    {
+        "value": "કોવિડ-૧૯",
+        "synonyms": [
+            "કોવિડ-૧૯",
+            "કો로나"
+        ]
+    },
+    {
+        "value": "ખસરો",
+        "synonyms": [
+            "ખસરો"
+        ]
+    },
+    {
+        "value": "પોલિયો",
+        "synonyms": [
+            "પોલિયો"
+        ]
+    },
+    {
+        "value": "રેબીઝ",
+        "synonyms": [
+            "રેબીઝ"
+        ]
+    },
+    {
+        "value": "પીળો તાવ",
+        "synonyms": [
+            "પીળો તાવ"
+        ]
+    },
+    {
+        "value": "હેપેટાઇટિસ",
+        "synonyms": [
+            "હેપેટાઇટિસ"
+        ]
+    },
+    {
+        "value": "ક્ષુષ્ટ",
+        "synonyms": [
+            "ક્ષુષ્ટ"
+        ]
+    },
+    {
+        "value": "ટાઇફોઈડ",
+        "synonyms": [
+            "ટાઇફોઈડ"
+        ]
+    },
+    {
+        "value": "മലേറിയ",
+        "synonyms": [
+            "മലേറിയ"
+        ]
+    },
+    {
+        "value": "ക്ഷയരോഗം",
+        "synonyms": [
+            "ക്ഷയരോഗം",
+            "ടിബി"
+        ]
+    },
+    {
+        "value": "എച്ച്ഐവി",
+        "synonyms": [
+            "എച്ച്ഐവി"
+        ]
+    },
+    {
+        "value": "ഏഡ്‌സ്",
+        "synonyms": [
+            "ഏഡ്‌സ്"
+        ]
+    },
+    {
+        "value": "ഇൻഫ്ലൂയൻസ",
+        "synonyms": [
+            "ഇൻഫ്ലൂയൻസ",
+            "ഫ്ലു"
+        ]
+    },
+    {
+        "value": "ഹജ",
+        "synonyms": [
+            "ഹജ"
+        ]
+    },
+    {
+        "value": "ഇബോള",
+        "synonyms": [
+            "ഇബോള"
+        ]
+    },
+    {
+        "value": "ഡെങ്ക്യു",
+        "synonyms": [
+            "ഡെങ്ക്യു"
+        ]
+    },
+    {
+        "value": "സിക്ക",
+        "synonyms": [
+            "സിക്ക"
+        ]
+    },
+    {
+        "value": "കോവിഡ്-19",
+        "synonyms": [
+            "കോവിഡ്-19",
+            "കൊറോണ"
+        ]
+    },
+    {
+        "value": "മീസൽസ്",
+        "synonyms": [
+            "മീസൽസ്"
+        ]
+    },
+    {
+        "value": "പോളിയോ",
+        "synonyms": [
+            "പോളിയോ"
+        ]
+    },
+    {
+        "value": "രബീസ്",
+        "synonyms": [
+            "രബീസ്"
+        ]
+    },
+    {
+        "value": "മഞ്ഞജ്വരം",
+        "synonyms": [
+            "മഞ്ഞജ്വരം"
+        ]
+    },
+    {
+        "value": "ഹെപറ്റൈറ്റിസ്",
+        "synonyms": [
+            "ഹെപറ്റൈറ്റിസ്"
+        ]
+    },
+    {
+        "value": "കുഷ്‌ഠരോഗം",
+        "synonyms": [
+            "കുഷ്‌ഠരോഗം"
+        ]
+    },
+    {
+        "value": "ടൈഫോയ്ഡ്",
+        "synonyms": [
+            "ടൈഫോയ്ഡ്"
+        ]
+    },
+    {
+        "value": "ملیریا",
+        "synonyms": [
+            "ملیریا"
+        ]
+    },
+    {
+        "value": "تپ دق",
+        "synonyms": [
+            "تپ دق",
+            "ٹی بی"
+        ]
+    },
+    {
+        "value": "ایچ آئی وی",
+        "synonyms": [
+            "ایچ آئی وی"
+        ]
+    },
+    {
+        "value": "ایڈز",
+        "synonyms": [
+            "ایڈز"
+        ]
+    },
+    {
+        "value": "انفلونزا",
+        "synonyms": [
+            "انفلونزا",
+            "فلو"
+        ]
+    },
+    {
+        "value": "ہیضہ",
+        "synonyms": [
+            "ہیضہ"
+        ]
+    },
+    {
+        "value": "ایبولا",
+        "synonyms": [
+            "ایبولا"
+        ]
+    },
+    {
+        "value": "ڈینگی",
+        "synonyms": [
+            "ڈینگی"
+        ]
+    },
+    {
+        "value": "زیکا",
+        "synonyms": [
+            "زیکا"
+        ]
+    },
+    {
+        "value": "کووڈ-19",
+        "synonyms": [
+            "کووڈ-19",
+            "کورونا"
+        ]
+    },
+    {
+        "value": "خسرہ",
+        "synonyms": [
+            "خسرہ"
+        ]
+    },
+    {
+        "value": "پولیو",
+        "synonyms": [
+            "پولیو"
+        ]
+    },
+    {
+        "value": "ریبیز",
+        "synonyms": [
+            "ریبیز"
+        ]
+    },
+    {
+        "value": "پیلیا بخار",
+        "synonyms": [
+            "پیلیا بخار"
+        ]
+    },
+    {
+        "value": "ہیپاٹائٹس",
+        "synonyms": [
+            "ہیپاٹائٹس"
+        ]
+    },
+    {
+        "value": "کوڑھ",
+        "synonyms": [
+            "کوڑھ"
+        ]
+    },
+    {
+        "value": "ٹائیفائیڈ",
+        "synonyms": [
+            "ٹائیفائیڈ"
+        ]
+    },
+    {
+        "value": "ਮਲੇਰੀਆ",
+        "synonyms": [
+            "ਮਲੇਰੀਆ"
+        ]
+    },
+    {
+        "value": "ਖੁਆਬੀ ਰੋਗ",
+        "synonyms": [
+            "ਖੁਆਬੀ ਰੋਗ",
+            "ਟੀਬੀ"
+        ]
+    },
+    {
+        "value": "ਐਚ ਆਈ ਵੀ",
+        "synonyms": [
+            "ਐਚ ਆਈ ਵੀ"
+        ]
+    },
+    {
+        "value": "ਏਡਜ਼",
+        "synonyms": [
+            "ਏਡਜ਼"
+        ]
+    },
+    {
+        "value": "ਇਨਫਲੂਐਂਜ਼ਾ",
+        "synonyms": [
+            "ਇਨਫਲੂਐਂਜ਼ਾ",
+            "ਫਲੂ"
+        ]
+    },
+    {
+        "value": "ਹੈਜ਼ਾ",
+        "synonyms": [
+            "ਹੈਜ਼ਾ"
+        ]
+    },
+    {
+        "value": "ਈਬੋਲਾ",
+        "synonyms": [
+            "ਈਬੋਲਾ"
+        ]
+    },
+    {
+        "value": "ਡੇਂਗੂ",
+        "synonyms": [
+            "ਡੇਂਗੂ"
+        ]
+    },
+    {
+        "value": "ਜ਼ੀਕਾ",
+        "synonyms": [
+            "ਜ਼ੀਕਾ"
+        ]
+    },
+    {
+        "value": "ਕੋਵਿਡ-19",
+        "synonyms": [
+            "ਕੋਵਿਡ-19",
+            "ਕੋਰੋਨਾ"
+        ]
+    },
+    {
+        "value": "ਖਸਰਾ",
+        "synonyms": [
+            "ਖਸਰਾ"
+        ]
+    },
+    {
+        "value": "ਪੋਲਿਓ",
+        "synonyms": [
+            "ਪੋਲਿਓ"
+        ]
+    },
+    {
+        "value": "ਰੇਬੀਜ਼",
+        "synonyms": [
+            "ਰੇਬੀਜ਼"
+        ]
+    },
+    {
+        "value": "ਪੀਲੀਆ ਬੁਖਾਰ",
+        "synonyms": [
+            "ਪੀਲੀਆ ਬੁਖਾਰ"
+        ]
+    },
+    {
+        "value": "ਹੈਪੇਟਾਈਟਿਸ",
+        "synonyms": [
+            "ਹੈਪੇਟਾਈਟਿਸ"
+        ]
+    },
+    {
+        "value": "ਕੁਸ਼ਤ ਰੋਗ",
+        "synonyms": [
+            "ਕੁਸ਼ਤ ਰੋਗ"
+        ]
+    },
+    {
+        "value": "ਟਾਈਫਾਇਡ",
+        "synonyms": [
+            "ਟਾਈਫਾਇਡ"
+        ]
+    },
+    {
+        "value": "മലേറിയ",
+        "synonyms": [
+            "മലേറിയ"
+        ]
+    },
+    {
+        "value": "ക്ഷയം",
+        "synonyms": [
+            "ക്ഷയം",
+            "ടി ബി"
+        ]
+    },
+    {
+        "value": "എച്ച്ഐവി",
+        "synonyms": [
+            "എച്ച്ഐവി"
+        ]
+    },
+    {
+        "value": "എയ്ഡ്സ്",
+        "synonyms": [
+            "എയ്ഡ്സ്"
+        ]
+    },
+    {
+        "value": "ഇൻഫ്ലൂവൻസ",
+        "synonyms": [
+            "ഇൻഫ്ലൂവൻസ",
+            "ഫ്ലൂ"
+        ]
+    },
+    {
+        "value": "ഹെജാ",
+        "synonyms": [
+            "ഹെജാ"
+        ]
+    },
+    {
+        "value": "ഇബോള",
+        "synonyms": [
+            "ഇബോള"
+        ]
+    },
+    {
+        "value": "ഡെംഗു",
+        "synonyms": [
+            "ഡെംഗു"
+        ]
+    },
+    {
+        "value": "സീക",
+        "synonyms": [
+            "സീക"
+        ]
+    },
+    {
+        "value": "കോവിഡ്-19",
+        "synonyms": [
+            "കോവിഡ്-19",
+            "കോറോണ"
+        ]
+    },
+    {
+        "value": "മീസിൽസ്",
+        "synonyms": [
+            "മീസിൽസ്"
+        ]
+    },
+    {
+        "value": "പോളിയോ",
+        "synonyms": [
+            "പോളിയോ"
+        ]
+    },
+    {
+        "value": "റേബീസ്",
+        "synonyms": [
+            "റേബീസ്"
+        ]
+    },
+    {
+        "value": "പിലിയ ബുഖാർ",
+        "synonyms": [
+            "പിലിയ ബുഖാർ"
+        ]
+    },
+    {
+        "value": "ഹെപറ്റൈറ്റിസ്",
+        "synonyms": [
+            "ഹെപറ്റൈറ്റിസ്"
+        ]
+    },
+    {
+        "value": "കുഷ്‌ടരോഗം",
+        "synonyms": [
+            "കുഷ്‌ടരോഗം"
+        ]
+    },
+    {
+        "value": "ടൈഫോയ്ഡ്",
+        "synonyms": [
+            "ടൈഫോയ്ഡ്"
+        ]
+    },
+    {
+        "value": "abortion",
+        "synonyms": [
+            "abortion"
+        ]
+    },
+    {
+        "value": "abuse of older people",
+        "synonyms": [
+            "abuse-of-older-people"
+        ]
+    },
+    {
+        "value": "adolescent and young adult health",
+        "synonyms": [
+            "adolescent-and-young-adult-health"
+        ]
+    },
+    {
+        "value": "adolescent pregnancy",
+        "synonyms": [
+            "adolescent-pregnancy"
+        ]
+    },
+    {
+        "value": "ageing and health",
+        "synonyms": [
+            "ageing-and-health"
+        ]
+    },
+    {
+        "value": "health",
+        "synonyms": [
+            "ageing-and-health"
+        ]
+    },
+    {
+        "value": "alcohol",
+        "synonyms": [
+            "alcohol"
+        ]
+    },
+    {
+        "value": "ambient (outdoor) air pollution",
+        "synonyms": [
+            "ambient-(outdoor)-air-pollution"
+        ]
+    },
+    {
+        "value": "anaemia",
+        "synonyms": [
+            "anaemia"
+        ]
+    },
+    {
+        "value": "animal bites",
+        "synonyms": [
+            "animal-bites"
+        ]
+    },
+    {
+        "value": "antimicrobial resistance",
+        "synonyms": [
+            "antimicrobial-resistance"
+        ]
+    },
+    {
+        "value": "anxiety disorders",
+        "synonyms": [
+            "anxiety-disorders"
+        ]
+    },
+    {
+        "value": "arsenic",
+        "synonyms": [
+            "arsenic"
+        ]
+    },
+    {
+        "value": "asbestos",
+        "synonyms": [
+            "asbestos"
+        ]
+    },
+    {
+        "value": "assistive technology",
+        "synonyms": [
+            "assistive-technology"
+        ]
+    },
+    {
+        "value": "asthma",
+        "synonyms": [
+            "asthma"
+        ]
+    },
+    {
+        "value": "autism",
+        "synonyms": [
+            "autism"
+        ]
+    },
+    {
+        "value": "bacterial vaginosis",
+        "synonyms": [
+            "bacterial-vaginosis"
+        ]
+    },
+    {
+        "value": "biodiversity",
+        "synonyms": [
+            "biodiversity"
+        ]
+    },
+    {
+        "value": "bipolar disorder",
+        "synonyms": [
+            "bipolar-disorder"
+        ]
+    },
+    {
+        "value": "vision impairment",
+        "synonyms": [
+            "blindness-and-vision-impairment"
+        ]
+    },
+    {
+        "value": "blood safety",
+        "synonyms": [
+            "blood-safety-and-availability"
+        ]
+    },
+    {
+        "value": "availability",
+        "synonyms": [
+            "blood-safety-and-availability"
+        ]
+    },
+    {
+        "value": "botulism",
+        "synonyms": [
+            "botulism"
+        ]
+    },
+    {
+        "value": "breast cancer",
+        "synonyms": [
+            "breast-cancer"
+        ]
+    },
+    {
+        "value": "brucellosis",
+        "synonyms": [
+            "brucellosis"
+        ]
+    },
+    {
+        "value": "burns",
+        "synonyms": [
+            "burns"
+        ]
+    },
+    {
+        "value": "buruli ulcer",
+        "synonyms": [
+            "buruli-ulcer-(mycobacterium-ulcerans-infection)"
+        ]
+    },
+    {
+        "value": "mycobacterium ulcerans",
+        "synonyms": [
+            "buruli-ulcer-(mycobacterium-ulcerans-infection)"
+        ]
+    },
+    {
+        "value": "mycobacterium ulcerans infection",
+        "synonyms": [
+            "buruli-ulcer-(mycobacterium-ulcerans-infection)"
+        ]
+    },
+    {
+        "value": "campylobacter",
+        "synonyms": [
+            "campylobacter"
+        ]
+    },
+    {
+        "value": "cancer",
+        "synonyms": [
+            "cancer"
+        ]
+    },
+    {
+        "value": "candidiasis",
+        "synonyms": [
+            "candidiasis-(yeast-infection)"
+        ]
+    },
+    {
+        "value": "yeast infection",
+        "synonyms": [
+            "candidiasis-(yeast-infection)"
+        ]
+    },
+    {
+        "value": "yeast",
+        "synonyms": [
+            "candidiasis-(yeast-infection)"
+        ]
+    },
+    {
+        "value": "cardiovascular",
+        "synonyms": [
+            "cardiovascular-diseases-(cvds)"
+        ]
+    },
+    {
+        "value": "cvds",
+        "synonyms": [
+            "cardiovascular-diseases-(cvds)"
+        ]
+    },
+    {
+        "value": "cervical cancer",
+        "synonyms": [
+            "cervical-cancer"
+        ]
+    },
+    {
+        "value": "trypanosomiasis",
+        "synonyms": [
+            "chagas-disease-(also-known-as-american-trypanosomiasis)"
+        ]
+    },
+    {
+        "value": "chagas",
+        "synonyms": [
+            "chagas-disease-(also-known-as-american-trypanosomiasis)"
+        ]
+    },
+    {
+        "value": "chikungunya",
+        "synonyms": [
+            "chikungunya"
+        ]
+    },
+    {
+        "value": "child maltreatment",
+        "synonyms": [
+            "child-maltreatment"
+        ]
+    },
+    {
+        "value": "child mortality",
+        "synonyms": [
+            "child-mortality-(under-5-years)"
+        ]
+    },
+    {
+        "value": "childhood cancer",
+        "synonyms": [
+            "childhood-cancer"
+        ]
+    },
+    {
+        "value": "chlamydia",
+        "synonyms": [
+            "chlamydia"
+        ]
+    },
+    {
+        "value": "cholera",
+        "synonyms": [
+            "cholera"
+        ]
+    },
+    {
+        "value": "chromoblastomycosis",
+        "synonyms": [
+            "chromoblastomycosis"
+        ]
+    },
+    {
+        "value": "chronic obstructive pulmonary",
+        "synonyms": [
+            "chronic-obstructive-pulmonary-disease-(copd)"
+        ]
+    },
+    {
+        "value": "copd",
+        "synonyms": [
+            "chronic-obstructive-pulmonary-disease-(copd)"
+        ]
+    },
+    {
+        "value": "civil registration and vital statistics",
+        "synonyms": [
+            "civil-registration-and-vital-statistics"
+        ]
+    },
+    {
+        "value": "climate change",
+        "synonyms": [
+            "climate-change"
+        ]
+    },
+    {
+        "value": "colorectal cancer",
+        "synonyms": [
+            "colorectal-cancer"
+        ]
+    },
+    {
+        "value": "commercial determinants of health",
+        "synonyms": [
+            "commercial-determinants-of-health"
+        ]
+    },
+    {
+        "value": "community-based health insurance",
+        "synonyms": [
+            "community-based-health-insurance"
+        ]
+    },
+    {
+        "value": "condoms",
+        "synonyms": [
+            "condoms"
+        ]
+    },
+    {
+        "value": "congenital disorders",
+        "synonyms": [
+            "congenital-disorders"
+        ]
+    },
+    {
+        "value": "corona virus",
+        "synonyms": [
+            "coronavirus-disease-(covid-19)"
+        ]
+    },
+    {
+        "value": "corona",
+        "synonyms": [
+            "coronavirus-disease-(covid-19)"
+        ]
+    },
+    {
+        "value": "covid-19",
+        "synonyms": [
+            "coronavirus-disease-(covid-19)"
+        ]
+    },
+    {
+        "value": "covid",
+        "synonyms": [
+            "coronavirus-disease-(covid-19)"
+        ]
+    },
+    {
+        "value": "corporal punishment of children and health",
+        "synonyms": [
+            "corporal-punishment-of-children-and-health"
+        ]
+    },
+    {
+        "value": "crimean congo haemorrhagic fever",
+        "synonyms": [
+            "crimean-congo-haemorrhagic-fever"
+        ]
+    },
+    {
+        "value": "hearing loss",
+        "synonyms": [
+            "deafness-and-hearing-loss"
+        ]
+    },
+    {
+        "value": "deaf",
+        "synonyms": [
+            "deafness-and-hearing-loss"
+        ]
+    },
+    {
+        "value": "deliberate events",
+        "synonyms": [
+            "deliberate-events"
+        ]
+    },
+    {
+        "value": "dementia",
+        "synonyms": [
+            "dementia"
+        ]
+    },
+    {
+        "value": "dengue",
+        "synonyms": [
+            "dengue"
+        ]
+    },
+    {
+        "value": "depressive disorder",
+        "synonyms": [
+            "depressive-disorder-(depression)"
+        ]
+    },
+    {
+        "value": "depression",
+        "synonyms": [
+            "depressive-disorder-(depression)"
+        ]
+    },
+    {
+        "value": "diabetes",
+        "synonyms": [
+            "diabetes"
+        ]
+    },
+    {
+        "value": "diarrhoeal",
+        "synonyms": [
+            "diarrhoeal-disease"
+        ]
+    },
+    {
+        "value": "dioxins",
+        "synonyms": [
+            "dioxins"
+        ]
+    },
+    {
+        "value": "diphtheria",
+        "synonyms": [
+            "diphtheria"
+        ]
+    },
+    {
+        "value": "disability",
+        "synonyms": [
+            "disability"
+        ]
+    },
+    {
+        "value": "dracunculiasis",
+        "synonyms": [
+            "dracunculiasis-(guinea-worm-disease)"
+        ]
+    },
+    {
+        "value": "guinea worm disease",
+        "synonyms": [
+            "dracunculiasis-(guinea-worm-disease)"
+        ]
+    },
+    {
+        "value": "drinking water",
+        "synonyms": [
+            "drinking-water"
+        ]
+    },
+    {
+        "value": "drowning",
+        "synonyms": [
+            "drowning"
+        ]
+    },
+    {
+        "value": "e. coli",
+        "synonyms": [
+            "e.-coli"
+        ]
+    },
+    {
+        "value": "ebola disease",
+        "synonyms": [
+            "ebola-disease"
+        ]
+    },
+    {
+        "value": "echinococcosis",
+        "synonyms": [
+            "echinococcosis"
+        ]
+    },
+    {
+        "value": "enso",
+        "synonyms": [
+            "el-niño-southern-oscillation-(enso)"
+        ]
+    },
+    {
+        "value": "el niño southern oscillation",
+        "synonyms": [
+            "el-niño-southern-oscillation-(enso)"
+        ]
+    },
+    {
+        "value": "electricity in health-care facilities",
+        "synonyms": [
+            "electricity-in-health-care-facilities"
+        ]
+    },
+    {
+        "value": "electronic waste",
+        "synonyms": [
+            "electronic-waste-(e-waste)"
+        ]
+    },
+    {
+        "value": "e-waste",
+        "synonyms": [
+            "electronic-waste-(e-waste)"
+        ]
+    },
+    {
+        "value": "emergency contraception",
+        "synonyms": [
+            "emergency-contraception"
+        ]
+    },
+    {
+        "value": "endometriosis",
+        "synonyms": [
+            "endometriosis"
+        ]
+    },
+    {
+        "value": "epilepsy",
+        "synonyms": [
+            "epilepsy"
+        ]
+    },
+    {
+        "value": "essential medicines",
+        "synonyms": [
+            "essential-medicines"
+        ]
+    },
+    {
+        "value": "falls",
+        "synonyms": [
+            "falls"
+        ]
+    },
+    {
+        "value": "family planning",
+        "synonyms": [
+            "family-planning/contraception-methods"
+        ]
+    },
+    {
+        "value": "contraception methods",
+        "synonyms": [
+            "family-planning/contraception-methods"
+        ]
+    },
+    {
+        "value": "contraception",
+        "synonyms": [
+            "family-planning/contraception-methods"
+        ]
+    },
+    {
+        "value": "female genital mutilation",
+        "synonyms": [
+            "female-genital-mutilation"
+        ]
+    },
+    {
+        "value": "food additives",
+        "synonyms": [
+            "food-additives"
+        ]
+    },
+    {
+        "value": "food safety",
+        "synonyms": [
+            "food-safety"
+        ]
+    },
+    {
+        "value": "foodborne trematode infections",
+        "synonyms": [
+            "foodborne-trematode-infections"
+        ]
+    },
+    {
+        "value": "fragility fractures",
+        "synonyms": [
+            "fragility-fractures"
+        ]
+    },
+    {
+        "value": "free health care policies",
+        "synonyms": [
+            "free-health-care-policies"
+        ]
+    },
+    {
+        "value": "gambling",
+        "synonyms": [
+            "gambling"
+        ]
+    },
+    {
+        "value": "gonorrhoea",
+        "synonyms": [
+            "gonorrhoea-(neisseria-gonorrhoeae-infection)"
+        ]
+    },
+    {
+        "value": "neisseria gonorrhoeae infection",
+        "synonyms": [
+            "gonorrhoea-(neisseria-gonorrhoeae-infection)"
+        ]
+    },
+    {
+        "value": "guillain barré syndrome",
+        "synonyms": [
+            "guillain-barré-syndrome"
+        ]
+    },
+    {
+        "value": "health literacy",
+        "synonyms": [
+            "health-literacy"
+        ]
+    },
+    {
+        "value": "healthcare waste",
+        "synonyms": [
+            "health-care-waste"
+        ]
+    },
+    {
+        "value": "healthy diet",
+        "synonyms": [
+            "healthy-diet"
+        ]
+    },
+    {
+        "value": "heat and health",
+        "synonyms": [
+            "heat-and-health"
+        ]
+    },
+    {
+        "value": "hepatitis a",
+        "synonyms": [
+            "hepatitis-a"
+        ]
+    },
+    {
+        "value": "hepatitis b",
+        "synonyms": [
+            "hepatitis-b"
+        ]
+    },
+    {
+        "value": "hepatitis c",
+        "synonyms": [
+            "hepatitis-c"
+        ]
+    },
+    {
+        "value": "hepatitis d",
+        "synonyms": [
+            "hepatitis-d"
+        ]
+    },
+    {
+        "value": "hepatitis e",
+        "synonyms": [
+            "hepatitis-e"
+        ]
+    },
+    {
+        "value": "herpes simplex virus",
+        "synonyms": [
+            "herpes-simplex-virus"
+        ]
+    },
+    {
+        "value": "hiv",
+        "synonyms": [
+            "hiv-and-aids"
+        ]
+    },
+    {
+        "value": "aids",
+        "synonyms": [
+            "hiv-and-aids"
+        ]
+    },
+    {
+        "value": "hiv drug resistance",
+        "synonyms": [
+            "hiv-drug-resistance"
+        ]
+    },
+    {
+        "value": "household air pollution",
+        "synonyms": [
+            "household-air-pollution"
+        ]
+    },
+    {
+        "value": "human papillomavirus and cancer",
+        "synonyms": [
+            "human-papillomavirus-and-cancer"
+        ]
+    },
+    {
+        "value": "human rights",
+        "synonyms": [
+            "human-rights"
+        ]
+    },
+    {
+        "value": "human t-lymphotropic virus type 1",
+        "synonyms": [
+            "human-t-lymphotropic-virus-type-1"
+        ]
+    },
+    {
+        "value": "hypertension",
+        "synonyms": [
+            "hypertension"
+        ]
+    },
+    {
+        "value": "icd-11",
+        "synonyms": [
+            "icd-11"
+        ]
+    },
+    {
+        "value": "immunization coverage",
+        "synonyms": [
+            "immunization-coverage"
+        ]
+    },
+    {
+        "value": "infant and young child feeding",
+        "synonyms": [
+            "infant-and-young-child-feeding"
+        ]
+    },
+    {
+        "value": "infertility",
+        "synonyms": [
+            "infertility"
+        ]
+    },
+    {
+        "value": "influenza",
+        "synonyms": [
+            "influenza-(avian-and-other-zoonotic)"
+        ]
+    },
+    {
+        "value": "influenza",
+        "synonyms": [
+            "influenza-(seasonal)"
+        ]
+    },
+    {
+        "value": "injuries and violence",
+        "synonyms": [
+            "injuries-and-violence"
+        ]
+    },
+    {
+        "value": "ionizing radiation and health effects",
+        "synonyms": [
+            "ionizing-radiation-and-health-effects"
+        ]
+    },
+    {
+        "value": "japanese encephalitis",
+        "synonyms": [
+            "japanese-encephalitis"
+        ]
+    },
+    {
+        "value": "lassa fever",
+        "synonyms": [
+            "lassa-fever"
+        ]
+    },
+    {
+        "value": "lead poisoning",
+        "synonyms": [
+            "lead-poisoning"
+        ]
+    },
+    {
+        "value": "legionellosis",
+        "synonyms": [
+            "legionellosis"
+        ]
+    },
+    {
+        "value": "leishmaniasis",
+        "synonyms": [
+            "leishmaniasis"
+        ]
+    },
+    {
+        "value": "leprosy",
+        "synonyms": [
+            "leprosy"
+        ]
+    },
+    {
+        "value": "listeriosis",
+        "synonyms": [
+            "listeriosis"
+        ]
+    },
+    {
+        "value": "low back pain",
+        "synonyms": [
+            "low-back-pain"
+        ]
+    },
+    {
+        "value": "lung cancer",
+        "synonyms": [
+            "lung-cancer"
+        ]
+    },
+    {
+        "value": "lymphatic filariasis",
+        "synonyms": [
+            "lymphatic-filariasis"
+        ]
+    },
+    {
+        "value": "malaria",
+        "synonyms": [
+            "malaria"
+        ]
+    },
+    {
+        "value": "malnutrition",
+        "synonyms": [
+            "malnutrition"
+        ]
+    },
+    {
+        "value": "marburg virus",
+        "synonyms": [
+            "marburg-virus-disease"
+        ]
+    },
+    {
+        "value": "maternal mortality",
+        "synonyms": [
+            "maternal-mortality"
+        ]
+    },
+    {
+        "value": "measles",
+        "synonyms": [
+            "measles"
+        ]
+    },
+    {
+        "value": "meningitis",
+        "synonyms": [
+            "meningitis"
+        ]
+    },
+    {
+        "value": "menopause",
+        "synonyms": [
+            "menopause"
+        ]
+    },
+    {
+        "value": "mental disorders",
+        "synonyms": [
+            "mental-disorders"
+        ]
+    },
+    {
+        "value": "mental health",
+        "synonyms": [
+            "mental-health"
+        ]
+    },
+    {
+        "value": "mental health at work",
+        "synonyms": [
+            "mental-health-at-work"
+        ]
+    },
+    {
+        "value": "mental health in emergencies",
+        "synonyms": [
+            "mental-health-in-emergencies"
+        ]
+    },
+    {
+        "value": "mental health of adolescents",
+        "synonyms": [
+            "mental-health-of-adolescents"
+        ]
+    },
+    {
+        "value": "mental health of older adults",
+        "synonyms": [
+            "mental-health-of-older-adults"
+        ]
+    },
+    {
+        "value": "mercury",
+        "synonyms": [
+            "mercury"
+        ]
+    },
+    {
+        "value": "middle east respiratory syndrome coronavirus (mers-cov)",
+        "synonyms": [
+            "middle-east-respiratory-syndrome-coronavirus-(mers-cov)"
+        ]
+    },
+    {
+        "value": "headache",
+        "synonyms": [
+            "migraine-and-other-headache-disorders"
+        ]
+    },
+    {
+        "value": "migraine",
+        "synonyms": [
+            "migraine-and-other-headache-disorders"
+        ]
+    },
+    {
+        "value": "millennium development goals (mdgs)",
+        "synonyms": [
+            "millennium-development-goals-(mdgs)"
+        ]
+    },
+    {
+        "value": "mpox",
+        "synonyms": [
+            "mpox"
+        ]
+    },
+    {
+        "value": "gonorrhoea",
+        "synonyms": [
+            "multi-drug-resistant-gonorrhoea"
+        ]
+    },
+    {
+        "value": "multiple sclerosis",
+        "synonyms": [
+            "multiple-sclerosis"
+        ]
+    },
+    {
+        "value": "musculoskeletal health",
+        "synonyms": [
+            "musculoskeletal-health"
+        ]
+    },
+    {
+        "value": "mycetoma",
+        "synonyms": [
+            "mycetoma"
+        ]
+    },
+    {
+        "value": "mycotoxins",
+        "synonyms": [
+            "mycotoxins"
+        ]
+    },
+    {
+        "value": "natural toxins in food",
+        "synonyms": [
+            "natural-toxins-in-food"
+        ]
+    },
+    {
+        "value": "newborn mortality",
+        "synonyms": [
+            "newborn-mortality"
+        ]
+    },
+    {
+        "value": "newborns: improving survival and well-being",
+        "synonyms": [
+            "newborns:-improving-survival-and-well-being"
+        ]
+    },
+    {
+        "value": "nipah virus",
+        "synonyms": [
+            "nipah-virus"
+        ]
+    },
+    {
+        "value": "noma",
+        "synonyms": [
+            "noma"
+        ]
+    },
+    {
+        "value": "noncommunicable",
+        "synonyms": [
+            "noncommunicable-diseases"
+        ]
+    },
+    {
+        "value": "midwifery",
+        "synonyms": [
+            "nursing-and-midwifery"
+        ]
+    },
+    {
+        "value": "nursing",
+        "synonyms": [
+            "nursing-and-midwifery"
+        ]
+    },
+    {
+        "value": "obesity",
+        "synonyms": [
+            "obesity-and-overweight"
+        ]
+    },
+    {
+        "value": "overweight",
+        "synonyms": [
+            "obesity-and-overweight"
+        ]
+    },
+    {
+        "value": "health workers",
+        "synonyms": [
+            "occupational-health:-health-workers"
+        ]
+    },
+    {
+        "value": "older children and young adolescent mortality (5 to 14 years)",
+        "synonyms": [
+            "older-children-and-young-adolescent-mortality-(5-to-14-years)"
+        ]
+    },
+    {
+        "value": "onchocerciasis",
+        "synonyms": [
+            "onchocerciasis"
+        ]
+    },
+    {
+        "value": "one health",
+        "synonyms": [
+            "one-health"
+        ]
+    },
+    {
+        "value": "opioid overdose",
+        "synonyms": [
+            "opioid-overdose"
+        ]
+    },
+    {
+        "value": "oral health",
+        "synonyms": [
+            "oral-health"
+        ]
+    },
+    {
+        "value": "oropouche",
+        "synonyms": [
+            "oropouche-virus-disease"
+        ]
+    },
+    {
+        "value": "osteoarthritis",
+        "synonyms": [
+            "osteoarthritis"
+        ]
+    },
+    {
+        "value": "palliative care",
+        "synonyms": [
+            "palliative-care"
+        ]
+    },
+    {
+        "value": "parkinson disease",
+        "synonyms": [
+            "parkinson-disease"
+        ]
+    },
+    {
+        "value": "patient safety",
+        "synonyms": [
+            "patient-safety"
+        ]
+    },
+    {
+        "value": "pesticide residues in food",
+        "synonyms": [
+            "pesticide-residues-in-food"
+        ]
+    },
+    {
+        "value": "physical activity",
+        "synonyms": [
+            "physical-activity"
+        ]
+    },
+    {
+        "value": "plague",
+        "synonyms": [
+            "plague"
+        ]
+    },
+    {
+        "value": "pneumonia in children",
+        "synonyms": [
+            "pneumonia-in-children"
+        ]
+    },
+    {
+        "value": "podoconiosis",
+        "synonyms": [
+            "podoconiosis-(non-filarial-lymphoedema)"
+        ]
+    },
+    {
+        "value": "poliomyelitis",
+        "synonyms": [
+            "poliomyelitis"
+        ]
+    },
+    {
+        "value": "polycystic ovary syndrome",
+        "synonyms": [
+            "polycystic-ovary-syndrome"
+        ]
+    },
+    {
+        "value": "post covid-19 condition (long covid)",
+        "synonyms": [
+            "post-covid-19-condition-(long-covid)"
+        ]
+    },
+    {
+        "value": "post-traumatic stress disorder",
+        "synonyms": [
+            "post-traumatic-stress-disorder"
+        ]
+    },
+    {
+        "value": "pre-eclampsia",
+        "synonyms": [
+            "pre-eclampsia"
+        ]
+    },
+    {
+        "value": "prequalification of medicines by who",
+        "synonyms": [
+            "prequalification-of-medicines-by-who"
+        ]
+    },
+    {
+        "value": "preterm birth",
+        "synonyms": [
+            "preterm-birth"
+        ]
+    },
+    {
+        "value": "primary health care",
+        "synonyms": [
+            "primary-health-care"
+        ]
+    },
+    {
+        "value": "protecting workers' health",
+        "synonyms": [
+            "protecting-workers'-health"
+        ]
+    },
+    {
+        "value": "quality health services",
+        "synonyms": [
+            "quality-health-services"
+        ]
+    },
+    {
+        "value": "rabies",
+        "synonyms": [
+            "rabies"
+        ]
+    },
+    {
+        "value": "radon",
+        "synonyms": [
+            "radon"
+        ]
+    },
+    {
+        "value": "refugee and migrant health",
+        "synonyms": [
+            "refugee-and-migrant-health"
+        ]
+    },
+    {
+        "value": "refugee and migrant mental health",
+        "synonyms": [
+            "refugee-and-migrant-mental-health"
+        ]
+    },
+    {
+        "value": "rehabilitation",
+        "synonyms": [
+            "rehabilitation"
+        ]
+    },
+    {
+        "value": "respiratory syncytial virus",
+        "synonyms": [
+            "respiratory-syncytial-virus-(rsv)"
+        ]
+    },
+    {
+        "value": "rsv",
+        "synonyms": [
+            "respiratory-syncytial-virus-(rsv)"
+        ]
+    },
+    {
+        "value": "rheumatic heart disease",
+        "synonyms": [
+            "rheumatic-heart-disease"
+        ]
+    },
+    {
+        "value": "rheumatoid arthritis",
+        "synonyms": [
+            "rheumatoid-arthritis"
+        ]
+    },
+    {
+        "value": "rift valley fever",
+        "synonyms": [
+            "rift-valley-fever"
+        ]
+    },
+    {
+        "value": "ringworm (tinea)",
+        "synonyms": [
+            "ringworm-(tinea)"
+        ]
+    },
+    {
+        "value": "tinea",
+        "synonyms": [
+            "ringworm-(tinea)"
+        ]
+    },
+    {
+        "value": "road traffic injuries",
+        "synonyms": [
+            "road-traffic-injuries"
+        ]
+    },
+    {
+        "value": "rubella",
+        "synonyms": [
+            "rubella"
+        ]
+    },
+    {
+        "value": "salmonella (non-typhoidal)",
+        "synonyms": [
+            "salmonella-(non-typhoidal)"
+        ]
+    },
+    {
+        "value": "non-typhoidal",
+        "synonyms": [
+            "salmonella-(non-typhoidal)"
+        ]
+    },
+    {
+        "value": "sand and dust storms",
+        "synonyms": [
+            "sand-and-dust-storms"
+        ]
+    },
+    {
+        "value": "sanitation",
+        "synonyms": [
+            "sanitation"
+        ]
+    },
+    {
+        "value": "scabies",
+        "synonyms": [
+            "scabies"
+        ]
+    },
+    {
+        "value": "schistosomiasis",
+        "synonyms": [
+            "schistosomiasis"
+        ]
+    },
+    {
+        "value": "schizophrenia",
+        "synonyms": [
+            "schizophrenia"
+        ]
+    },
+    {
+        "value": "selfcare for health and well-being",
+        "synonyms": [
+            "self-care-for-health-and-well-being"
+        ]
+    },
+    {
+        "value": "sepsis",
+        "synonyms": [
+            "sepsis"
+        ]
+    },
+    {
+        "value": "sexually transmitted infections",
+        "synonyms": [
+            "sexually-transmitted-infections-(stis)"
+        ]
+    },
+    {
+        "value": "stis",
+        "synonyms": [
+            "sexually-transmitted-infections-(stis)"
+        ]
+    },
+    {
+        "value": "shingles",
+        "synonyms": [
+            "shingles-(herpes-zoster)"
+        ]
+    },
+    {
+        "value": "herpes zoster",
+        "synonyms": [
+            "shingles-(herpes-zoster)"
+        ]
+    },
+    {
+        "value": "sickle cell disease",
+        "synonyms": [
+            "sickle-cell-disease"
+        ]
+    },
+    {
+        "value": "snakebite envenoming",
+        "synonyms": [
+            "snakebite-envenoming"
+        ]
+    },
+    {
+        "value": "social determinants of health",
+        "synonyms": [
+            "social-determinants-of-health"
+        ]
+    },
+    {
+        "value": "sodium reduction",
+        "synonyms": [
+            "sodium-reduction"
+        ]
+    },
+    {
+        "value": "soil-transmitted helminth infections",
+        "synonyms": [
+            "soil-transmitted-helminth-infections"
+        ]
+    },
+    {
+        "value": "spinal cord injury",
+        "synonyms": [
+            "spinal-cord-injury"
+        ]
+    },
+    {
+        "value": "sporotrichosis",
+        "synonyms": [
+            "sporotrichosis"
+        ]
+    },
+    {
+        "value": "substandard and falsified medical products",
+        "synonyms": [
+            "substandard-and-falsified-medical-products"
+        ]
+    },
+    {
+        "value": "sugars and dental caries",
+        "synonyms": [
+            "sugars-and-dental-caries"
+        ]
+    },
+    {
+        "value": "suicide",
+        "synonyms": [
+            "suicide"
+        ]
+    },
+    {
+        "value": "syphilis",
+        "synonyms": [
+            "syphilis"
+        ]
+    },
+    {
+        "value": "taeniasis/cysticercosis",
+        "synonyms": [
+            "taeniasis/cysticercosis"
+        ]
+    },
+    {
+        "value": "tetanus",
+        "synonyms": [
+            "tetanus"
+        ]
+    },
+    {
+        "value": "the top 10 causes of death",
+        "synonyms": [
+            "the-top-10-causes-of-death"
+        ]
+    },
+    {
+        "value": "tobacco",
+        "synonyms": [
+            "tobacco"
+        ]
+    },
+    {
+        "value": "trachoma",
+        "synonyms": [
+            "trachoma"
+        ]
+    },
+    {
+        "value": "trans fat",
+        "synonyms": [
+            "trans-fat"
+        ]
+    },
+    {
+        "value": "trichomoniasis",
+        "synonyms": [
+            "trichomoniasis"
+        ]
+    },
+    {
+        "value": "trypanosomiasis, human african (sleeping sickness)",
+        "synonyms": [
+            "trypanosomiasis,-human-african-(sleeping-sickness)"
+        ]
+    },
+    {
+        "value": "tuberculosis",
+        "synonyms": [
+            "tuberculosis"
+        ]
+    },
+    {
+        "value": "tungiasis",
+        "synonyms": [
+            "tungiasis"
+        ]
+    },
+    {
+        "value": "typhoid",
+        "synonyms": [
+            "typhoid"
+        ]
+    },
+    {
+        "value": "ultraviolet radiation",
+        "synonyms": [
+            "ultraviolet-radiation"
+        ]
+    },
+    {
+        "value": "universal health coverage (uhc)",
+        "synonyms": [
+            "universal-health-coverage-(uhc)"
+        ]
+    },
+    {
+        "value": "urban health",
+        "synonyms": [
+            "urban-health"
+        ]
+    },
+    {
+        "value": "vector-borne diseases",
+        "synonyms": [
+            "vector-borne-diseases"
+        ]
+    },
+    {
+        "value": "violence against children",
+        "synonyms": [
+            "violence-against-children"
+        ]
+    },
+    {
+        "value": "violence against women",
+        "synonyms": [
+            "violence-against-women"
+        ]
+    },
+    {
+        "value": "west nile virus",
+        "synonyms": [
+            "west-nile-virus"
+        ]
+    },
+    {
+        "value": "white phosphorus",
+        "synonyms": [
+            "white-phosphorus"
+        ]
+    },
+    {
+        "value": "yaws",
+        "synonyms": [
+            "yaws"
+        ]
+    },
+    {
+        "value": "yellow fever",
+        "synonyms": [
+            "yellow-fever"
+        ]
+    },
+    {
+        "value": "youth violence",
+        "synonyms": [
+            "youth-violence"
+        ]
+    },
+    {
+        "value": "zika virus",
+        "synonyms": [
+            "zika-virus"
+        ]
+    },
+    {
+        "value": "zoonoses",
+        "synonyms": [
+            "zoonoses"
+        ]
+    }
+]
