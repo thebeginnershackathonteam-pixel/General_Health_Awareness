@@ -1,0 +1,14 @@
+Flask
+gunicorn
+requests
+beautifulsoup4
+lxml
+langdetect
+google-auth
+reportlab
+python-dateutil
+psycopg2-binary
+twilio
+google-cloud-dialogflow
+google-auth
+protobuf
